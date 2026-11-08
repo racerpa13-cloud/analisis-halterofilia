@@ -13,15 +13,7 @@ El análisis parte de un caso de negocio planteado por Lift & Lead, una startup 
 - Comparar los promedios de peso total levantado por país y género.
 - Identificar patrones y limitaciones relevantes para la interpretación de los resultados.
 
-## 3. Herramientas utilizadas
-
-- **Python:** procesamiento y análisis de datos.
-- **Pandas y NumPy:** limpieza, transformación e integración.
-- **Requests y Pandas:** extracción de tablas HTML mediante web scraping.
-- **Matplotlib y Seaborn:** visualización de resultados.
-- **Jupyter Notebook:** desarrollo y documentación del análisis.
-
-## 4. Metodología
+## 3. Metodología
 
 El proyecto se desarrolla en dos fases:
 
@@ -40,14 +32,14 @@ Durante la preparación se identificaron y documentaron dos incidencias relevant
 
 El análisis ampliado incluye cinco ediciones celebradas y un total de 300 registros de medallistas.
 
-## 5. Principales resultados
+## 4. Principales resultados
 
 - **Armenia** lidera el número total de medallas, con 44.
 - **Bulgaria** obtiene el mayor número de medallas de oro, con 15.
 - **Turquía** presenta una distribución proporcionalmente equilibrada de medallas entre géneros (57,14 % frente a 42,86 %), con un total de 28 medallas.
 - **Rumania** registra la menor diferencia absoluta entre los promedios de peso levantado por género (36,79 kg), aunque la comparación está condicionada por el tamaño de las muestras y las categorías de peso.
 
-## 6. Conclusiones y limitaciones
+## 5. Conclusiones y limitaciones
 
 El análisis permite identificar países destacados, patrones de distribución de medallas y diferencias en los resultados deportivos.
 
@@ -55,7 +47,7 @@ Sin embargo, los datos corresponden exclusivamente a medallistas y no permiten e
 
 Para analizar la viabilidad comercial de centros especializados sería necesario incorporar indicadores de participación deportiva, interés del público y demanda potencial.
 
-## 7. Fuentes de datos
+## 6. Fuentes de datos
 
 - [Wikipedia – Campeonato Europeo de Halterofilia](https://es.wikipedia.org/wiki/Campeonato_Europeo_de_Halterofilia)
 - Federación Internacional de Halterofilia (IWF).
